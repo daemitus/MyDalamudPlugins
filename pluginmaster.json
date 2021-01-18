@@ -14,6 +14,23 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1610999467"
+        "LastUpdated": "1611000877"
+    },
+    {
+        "Author": "daemitus",
+        "Name": "ezMiniCactpot",
+        "Description": "Highlights recommended tiles in Mini Cactpot for your next move.",
+        "InternalName": "MiniCactpotSolver",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/daemitus/MiniCactpotSolver",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 2,
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1611000877"
     }
 ]
