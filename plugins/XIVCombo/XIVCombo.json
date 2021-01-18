@@ -1,0 +1,11 @@
+{
+  "Author": "attick, daemitus",
+  "Name": "XIVCombo",
+  "InternalName": "XIVCombo",
+  "AssemblyVersion": "1.0.3.7",
+  "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/daemitus/XIVCombo",
+  "DalamudApiLevel": 2,
+  "LoadPriority": 0
+}
