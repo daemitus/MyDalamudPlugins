@@ -62,7 +62,7 @@ def extract_manifests():
 def add_extra_fields(manifests):
     for manifest in manifests:
         # generate the download link from the internal assembly name
-        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(manifest["InternalName"])
+        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(plugin_name=manifest["InternalName"])
         # add default values if missing
         for k, v in DEFAULTS.items():
             if k not in manifest:
@@ -72,6 +72,7 @@ def add_extra_fields(manifests):
             for k in keys:
                 if k not in manifest:
                     manifest[k] = manifest[source]
+        manifest['DownloadCount'] = 0
 
 def write_master(master):
     # write as pretty json

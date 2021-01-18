@@ -13,11 +13,10 @@ jobs:
         with:
             python-version: '3.8'
       - uses: actions/checkout@v2
-      - name: Generate pluginmaster
+      - name: Generate PluginMaster
         run: python generate_pluginmaster.py
       - uses: EndBug/add-and-commit@v7
         with:
-          add: --all
           author_name: GitHub Action
           author_email: github-actions[bot]@users.noreply.github.com
           message: Regenerate PluginMaster
