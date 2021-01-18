@@ -1,7 +1,7 @@
 [
     {
         "Author": "attick, daemitus",
-        "Name": "XIVCombo",
+        "Name": "XIV Combo Expanded",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
         "InternalName": "XIVCombo",
         "AssemblyVersion": "1.0.3.7",
@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1611001195"
+        "LastUpdated": "1611001566"
     },
     {
         "Author": "daemitus",
@@ -31,6 +31,6 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1611001195"
+        "LastUpdated": "1611001566"
     }
 ]
