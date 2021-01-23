@@ -1,22 +1,5 @@
 [
     {
-        "Author": "attick, daemitus",
-        "Name": "XIV Combo Expanded",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
-        "InternalName": "XIVCombo",
-        "AssemblyVersion": "1.0.3.7",
-        "RepoUrl": "https://github.com/daemitus/XIVCombo",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 2,
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVCombo/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVCombo/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVCombo/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1611001566"
-    },
-    {
         "Author": "daemitus",
         "Name": "ezMiniCactpot",
         "Description": "Highlights recommended tiles in Mini Cactpot for your next move.",
@@ -31,6 +14,40 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1611001566"
+        "LastUpdated": "1611408774"
+    },
+    {
+        "Author": "attick, daemitus",
+        "Name": "XIV Combo Expanded",
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
+        "InternalName": "XIVComboExpanded",
+        "AssemblyVersion": "1.0.3.8",
+        "RepoUrl": "https://github.com/daemitus/XIVCombo",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 2,
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1611408774"
+    },
+    {
+        "Author": "attick, daemitus",
+        "Name": "XIV Combo Expanded",
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
+        "InternalName": "XIVCombo",
+        "AssemblyVersion": "1.0.3.7",
+        "RepoUrl": "https://github.com/daemitus/XIVCombo",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 2,
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVCombo/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVCombo/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVCombo/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1611408774"
     }
 ]
