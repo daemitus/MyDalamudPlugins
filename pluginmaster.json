@@ -1,20 +1,20 @@
 [
     {
         "Author": "daemitus",
-        "Name": "ezMiniCactpot",
-        "Description": "Highlights recommended tiles in Mini Cactpot for your next move.",
-        "InternalName": "MiniCactpotSolver",
-        "AssemblyVersion": "1.0.1.0",
-        "RepoUrl": "https://github.com/daemitus/MiniCactpotSolver",
+        "Name": "ezWondrousTails",
+        "Description": "Adds row probabilities to the Wondrous Tails display.",
+        "InternalName": "WondrousTailsSolver",
+        "AssemblyVersion": "1.0.0.6",
+        "RepoUrl": "https://github.com/daemitus/WondrousTailsSolver",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 2,
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1611541841"
+        "LastUpdated": "1611862945"
     },
     {
         "Author": "attick, daemitus",
@@ -31,23 +31,23 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1611541841"
+        "LastUpdated": "1611862945"
     },
     {
         "Author": "daemitus",
-        "Name": "ezWondrousTails",
-        "Description": "Adds row probabilities to the Wondrous Tails display.",
-        "InternalName": "WondrousTailsSolver",
-        "AssemblyVersion": "1.0.0.5",
-        "RepoUrl": "https://github.com/daemitus/WondrousTailsSolver",
+        "Name": "ezMiniCactpot",
+        "Description": "Highlights recommended tiles in Mini Cactpot for your next move.",
+        "InternalName": "MiniCactpotSolver",
+        "AssemblyVersion": "1.0.1.0",
+        "RepoUrl": "https://github.com/daemitus/MiniCactpotSolver",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 2,
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1611541841"
+        "LastUpdated": "1611862945"
     }
 ]
