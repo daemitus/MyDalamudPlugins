@@ -2,10 +2,10 @@
   "Author": "attick, daemitus, grammernatzi",
   "Name": "XIV Combo Expandedest",
   "InternalName": "XIVComboExpandedest",
-  "AssemblyVersion": "1.0.3.10",
+  "AssemblyVersion": "1.0.4.0",
   "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/grammernatzi/XIVCombo",
+  "RepoUrl": "https://github.com/Grammernatzi/XIVComboPlugin",
   "DalamudApiLevel": 2,
   "LoadPriority": 0
 }
