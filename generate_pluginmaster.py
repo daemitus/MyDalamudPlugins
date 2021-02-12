@@ -5,7 +5,7 @@ from sys import argv
 from os.path import getmtime
 from zipfile import ZipFile, ZIP_DEFLATED
 
-DOWNLOAD_URL = 'https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/{plugin_name}/latest.zip'
+DOWNLOAD_URL = 'https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/{plugin_name}/latest.zip'
 
 DEFAULTS = {
     'IsHide': False,
