@@ -4,7 +4,7 @@
         "Name": "XIV Combo Expandedest",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.0.5.3",
+        "AssemblyVersion": "1.0.5.4",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 2,
@@ -14,6 +14,6 @@
         "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1613361203"
+        "LastUpdated": "1613363070"
     }
 ]
