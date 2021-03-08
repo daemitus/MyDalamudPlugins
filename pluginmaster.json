@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1615243541"
+        "LastUpdated": "1615244190"
     },
     {
         "Author": "attick, daemitus",
@@ -31,7 +31,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1615243541"
+        "LastUpdated": "1615244190"
     },
     {
         "Author": "daemitus",
@@ -48,7 +48,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1615243541"
+        "LastUpdated": "1615244190"
     },
     {
         "Author": "daemitus",
@@ -65,14 +65,14 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1615243541"
+        "LastUpdated": "1615244190"
     },
     {
         "Author": "daemitus",
         "Name": "SomethingNeedDoing",
         "Description": "A hard-working peon that crafts what you tell him to. Work work.",
         "InternalName": "SomethingNeedDoing",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.2",
         "RepoUrl": "https://github.com/daemitus/SomethingNeedDoing",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 2,
@@ -82,6 +82,6 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1615243541"
+        "LastUpdated": "1615244190"
     }
 ]
