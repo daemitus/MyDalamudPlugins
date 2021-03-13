@@ -1,0 +1,11 @@
+{
+  "Author": "daemitus",
+  "Name": "YesAlready",
+  "InternalName": "YesAlready",
+  "AssemblyVersion": "1.0.0.1",
+  "Description": "Clicks Yes in various dialogs you've specified.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/daemitus/YesAlready",
+  "DalamudApiLevel": 2,
+  "LoadPriority": 0
+}
