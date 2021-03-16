@@ -2,7 +2,7 @@
   "Author": "daemitus",
   "Name": "YesAlready",
   "InternalName": "YesAlready",
-  "AssemblyVersion": "1.0.0.2",
+  "AssemblyVersion": "1.0.0.3",
   "Description": "Clicks Yes in various dialogs you've specified.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/daemitus/YesAlready",
