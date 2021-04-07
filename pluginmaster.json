@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1617764278"
+        "LastUpdated": "1617804616"
     },
     {
         "Author": "daemitus",
@@ -31,7 +31,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1617764278"
+        "LastUpdated": "1617804616"
     },
     {
         "Author": "attick, daemitus",
@@ -48,14 +48,14 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1617764278"
+        "LastUpdated": "1617804616"
     },
     {
         "Author": "daemitus",
         "Name": "YesAlready",
         "Description": "Clicks Yes in various dialogs you've specified.",
         "InternalName": "YesAlready",
-        "AssemblyVersion": "1.0.0.10",
+        "AssemblyVersion": "1.0.1.0",
         "RepoUrl": "https://github.com/daemitus/YesAlready",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 2,
@@ -65,7 +65,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1617764278"
+        "LastUpdated": "1617804616"
     },
     {
         "Author": "daemitus",
@@ -82,7 +82,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1617764278"
+        "LastUpdated": "1617804616"
     },
     {
         "Author": "daemitus",
@@ -99,6 +99,6 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1617764278"
+        "LastUpdated": "1617804616"
     }
 ]
