@@ -2,7 +2,7 @@
   "Author": "attick, daemitus",
   "Name": "XIV Combo Expanded",
   "InternalName": "XIVComboExpanded",
-  "AssemblyVersion": "1.0.3.12",
+  "AssemblyVersion": "1.0.3.13",
   "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/daemitus/XIVCombo",
