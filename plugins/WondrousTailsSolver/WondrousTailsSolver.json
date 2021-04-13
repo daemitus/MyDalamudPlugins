@@ -2,10 +2,10 @@
   "Author": "daemitus",
   "Name": "ezWondrousTails",
   "InternalName": "WondrousTailsSolver",
-  "AssemblyVersion": "1.0.1.0",
+  "AssemblyVersion": "1.0.1.1",
   "Description": "Adds row probabilities to the Wondrous Tails display.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/daemitus/WondrousTailsSolver",
-  "DalamudApiLevel": 2,
+  "DalamudApiLevel": 3,
   "LoadPriority": 0
 }
