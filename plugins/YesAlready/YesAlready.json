@@ -6,6 +6,6 @@
   "Description": "Clicks Yes in various dialogs you've specified.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/daemitus/YesAlready",
-  "DalamudApiLevel": 2,
+  "DalamudApiLevel": 3,
   "LoadPriority": 0
 }
