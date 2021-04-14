@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618416255"
+        "LastUpdated": "1618417950"
     },
     {
         "Author": "daemitus",
@@ -31,7 +31,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618416255"
+        "LastUpdated": "1618417950"
     },
     {
         "Author": "attick, daemitus",
@@ -48,7 +48,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618416255"
+        "LastUpdated": "1618417950"
     },
     {
         "Author": "daemitus",
@@ -65,7 +65,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618416255"
+        "LastUpdated": "1618417950"
     },
     {
         "Author": "daemitus",
@@ -82,23 +82,23 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618416255"
+        "LastUpdated": "1618417950"
     },
     {
         "Author": "daemitus",
         "Name": "SomethingNeedDoing",
         "Description": "A hard-working peon that crafts what you tell him to. Work work.",
         "InternalName": "SomethingNeedDoing",
-        "AssemblyVersion": "1.0.0.7",
+        "AssemblyVersion": "1.0.0.9",
         "RepoUrl": "https://github.com/daemitus/SomethingNeedDoing",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 2,
+        "DalamudApiLevel": 3,
         "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618416255"
+        "LastUpdated": "1618417950"
     }
 ]
