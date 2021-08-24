@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/MiniCactpotSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/MiniCactpotSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629830903"
+        "LastUpdated": "1629831389"
     },
     {
         "Author": "daemitus",
@@ -42,7 +42,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/WondrousTailsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/WondrousTailsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629830904"
+        "LastUpdated": "1629831389"
     },
     {
         "Author": "daemitus",
@@ -59,7 +59,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629830904"
+        "LastUpdated": "1629831389"
     },
     {
         "Author": "attick, daemitus",
@@ -79,7 +79,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629830904"
+        "LastUpdated": "1629831389"
     },
     {
         "Author": "daemitus",
@@ -101,23 +101,26 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/FauxHollowsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/FauxHollowsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629830903"
+        "LastUpdated": "1629831389"
     },
     {
         "Author": "daemitus",
-        "Name": "YesAlready",
-        "Description": "Clicks Yes in various dialogs you've specified.",
+        "Name": "Yes Already",
+        "Punchline": "Clicks Yes in various dialogs you've specified.",
+        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
         "InternalName": "YesAlready",
-        "AssemblyVersion": "1.0.2.2",
+        "AssemblyVersion": "1.1.0.0",
         "RepoUrl": "https://github.com/daemitus/YesAlready",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 3,
+        "DalamudApiLevel": 4,
+        "IconUrl": "https://github.com/daemitus/YesAlready/raw/master/res/icon.png",
+        "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/YesAlready/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629830904"
+        "LastUpdated": "1629831389"
     }
 ]
