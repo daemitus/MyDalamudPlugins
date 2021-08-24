@@ -5,7 +5,7 @@ from sys import argv
 from os.path import getmtime
 from zipfile import ZipFile, ZIP_DEFLATED
 
-BRANCH = os.environ['GITHUB_REF'].split('refs/head/')[-1]
+BRANCH = os.environ['GITHUB_REF'].split('refs/heads/')[-1]
 DOWNLOAD_URL = 'https://github.com/daemitus/MyDalamudPlugins/raw/{branch}/plugins/{plugin_name}/latest.zip'
 
 DEFAULTS = {
