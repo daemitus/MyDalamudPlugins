@@ -8,13 +8,13 @@
         "RepoUrl": "https://github.com/daemitus/MiniCactpotSolver",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/pi4/plugins/MiniCactpotSolver/latest.zip",
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/MiniCactpotSolver/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/pi4/plugins/MiniCactpotSolver/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/pi4/plugins/MiniCactpotSolver/latest.zip",
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/MiniCactpotSolver/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/MiniCactpotSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629804098"
+        "LastUpdated": "1629804615"
     },
     {
         "Author": "daemitus",
@@ -25,13 +25,13 @@
         "RepoUrl": "https://github.com/daemitus/WondrousTailsSolver",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/pi4/plugins/WondrousTailsSolver/latest.zip",
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/WondrousTailsSolver/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/pi4/plugins/WondrousTailsSolver/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/pi4/plugins/WondrousTailsSolver/latest.zip",
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/WondrousTailsSolver/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/WondrousTailsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629804098"
+        "LastUpdated": "1629804615"
     },
     {
         "Author": "daemitus",
@@ -42,13 +42,13 @@
         "RepoUrl": "https://github.com/daemitus/SomethingNeedDoing",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/pi4/plugins/SomethingNeedDoing/latest.zip",
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/SomethingNeedDoing/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/pi4/plugins/SomethingNeedDoing/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/pi4/plugins/SomethingNeedDoing/latest.zip",
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/SomethingNeedDoing/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629804098"
+        "LastUpdated": "1629804615"
     },
     {
         "Author": "attick, daemitus",
@@ -59,13 +59,13 @@
         "RepoUrl": "https://github.com/daemitus/XIVCombo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/pi4/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/XIVComboExpanded/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/pi4/plugins/XIVComboExpanded/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/pi4/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629804098"
+        "LastUpdated": "1629804615"
     },
     {
         "Author": "daemitus",
@@ -76,13 +76,13 @@
         "RepoUrl": "https://github.com/daemitus/FauxHollowsSolver",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/pi4/plugins/FauxHollowsSolver/latest.zip",
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/FauxHollowsSolver/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/pi4/plugins/FauxHollowsSolver/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/pi4/plugins/FauxHollowsSolver/latest.zip",
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/FauxHollowsSolver/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/FauxHollowsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629804098"
+        "LastUpdated": "1629804615"
     },
     {
         "Author": "daemitus",
@@ -93,12 +93,12 @@
         "RepoUrl": "https://github.com/daemitus/YesAlready",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/pi4/plugins/YesAlready/latest.zip",
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/YesAlready/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/pi4/plugins/YesAlready/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/pi4/plugins/YesAlready/latest.zip",
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/YesAlready/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629804098"
+        "LastUpdated": "1629804615"
     }
 ]
