@@ -2,36 +2,47 @@
     {
         "Author": "daemitus",
         "Name": "ezMiniCactpot",
+        "Punchline": "Shows the next best move in Mini Cactpot.",
         "Description": "This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take.",
         "InternalName": "MiniCactpotSolver",
         "AssemblyVersion": "1.1.0.0",
         "RepoUrl": "https://github.com/daemitus/MiniCactpotSolver",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
+        "IconUrl": "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/image1.png",
+            "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/image2.png"
+        ],
         "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/MiniCactpotSolver/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/MiniCactpotSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/MiniCactpotSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629816520"
+        "LastUpdated": "1629817339"
     },
     {
         "Author": "daemitus",
         "Name": "ezWondrousTails",
+        "Punchline": "Adds row probabilities to the Wondrous Tails display.",
         "Description": "This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled.",
         "InternalName": "WondrousTailsSolver",
         "AssemblyVersion": "2.1.0.0",
         "RepoUrl": "https://github.com/daemitus/WondrousTailsSolver",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
+        "IconUrl": "https://raw.githubusercontent.com/daemitus/WondrousTailsSolver/master/res/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/daemitus/WondrousTailsSolver/master/res/image1.png"
+        ],
         "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/WondrousTailsSolver/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/WondrousTailsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/WondrousTailsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629816520"
+        "LastUpdated": "1629817339"
     },
     {
         "Author": "daemitus",
@@ -48,41 +59,49 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629816520"
+        "LastUpdated": "1629817339"
     },
     {
         "Author": "attick, daemitus",
         "Name": "XIV Combo Expanded",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
         "InternalName": "XIVComboExpanded",
         "AssemblyVersion": "1.2.0.0",
         "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
+        "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
+        "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/XIVComboExpanded/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629816520"
+        "LastUpdated": "1629817339"
     },
     {
         "Author": "daemitus",
         "Name": "ezFauxHollows",
+        "Punchline": "Highlights recommended tiles in Faux Hollows for your next move.",
         "Description": "This plugin highlights tiles in Faux Hollows that represent the best potential action you can take.",
         "InternalName": "FauxHollowsSolver",
         "AssemblyVersion": "1.1.0.0",
         "RepoUrl": "https://github.com/daemitus/FauxHollowsSolver",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
+        "IconUrl": "https://raw.githubusercontent.com/daemitus/FauxHollowsSolver/master/res/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/daemitus/FauxHollowsSolver/master/res/image1.png"
+        ],
         "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/FauxHollowsSolver/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/FauxHollowsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/FauxHollowsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629816520"
+        "LastUpdated": "1629817339"
     },
     {
         "Author": "daemitus",
@@ -99,6 +118,6 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/api4/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629816520"
+        "LastUpdated": "1629817339"
     }
 ]
