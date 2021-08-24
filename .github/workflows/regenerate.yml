@@ -5,6 +5,7 @@ on:
     branches:
     - master
     - api4
+concurrency: regenerate
 jobs:
   generate:
     name: Regenerate PluginMaster
