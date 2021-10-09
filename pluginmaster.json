@@ -19,7 +19,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1633787551"
+        "LastUpdated": "1633787742"
     },
     {
         "Author": "daemitus",
@@ -42,7 +42,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1633787551"
+        "LastUpdated": "1633787742"
     },
     {
         "Author": "attick, daemitus",
@@ -62,7 +62,27 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1633787551"
+        "LastUpdated": "1633787742"
+    },
+    {
+        "Author": "daemitus",
+        "Name": "Something Need Doing",
+        "Punchline": "Work work.",
+        "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.",
+        "InternalName": "SomethingNeedDoing",
+        "AssemblyVersion": "1.1.1.1",
+        "RepoUrl": "https://github.com/daemitus/SomethingNeedDoing",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 4,
+        "IconUrl": "https://github.com/daemitus/SomethingNeedDoing/raw/master/res/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1633787742"
     },
     {
         "Author": "daemitus",
@@ -84,7 +104,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1633787551"
+        "LastUpdated": "1633787742"
     },
     {
         "Author": "daemitus",
@@ -104,6 +124,6 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1633787551"
+        "LastUpdated": "1633787742"
     }
 ]
