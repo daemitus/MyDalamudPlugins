@@ -19,7 +19,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1634346286"
+        "LastUpdated": "1634346579"
     },
     {
         "Author": "daemitus",
@@ -42,7 +42,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1634346286"
+        "LastUpdated": "1634346579"
     },
     {
         "Author": "attick, daemitus",
@@ -62,7 +62,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1634346286"
+        "LastUpdated": "1634346579"
     },
     {
         "Author": "daemitus",
@@ -82,7 +82,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1634346286"
+        "LastUpdated": "1634346579"
     },
     {
         "Author": "daemitus",
@@ -90,7 +90,7 @@
         "Punchline": "Highlights recommended tiles in Faux Hollows for your next move.",
         "Description": "This plugin highlights tiles in Faux Hollows that represent the best potential action you can take.",
         "InternalName": "FauxHollowsSolver",
-        "AssemblyVersion": "1.1.0.0",
+        "AssemblyVersion": "1.1.0.1",
         "RepoUrl": "https://github.com/daemitus/FauxHollowsSolver",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
@@ -104,7 +104,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1634346286"
+        "LastUpdated": "1634346579"
     },
     {
         "Author": "daemitus",
@@ -124,6 +124,6 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1634346286"
+        "LastUpdated": "1634346579"
     }
 ]
