@@ -30,6 +30,7 @@ TRIMMED_KEYS = [
     'ApplicableVersion',
     'Tags',
     'DalamudApiLevel',
+    'LoadPriority',
     'IconUrl',
     'ImageUrls',
 ]
