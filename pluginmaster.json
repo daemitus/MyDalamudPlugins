@@ -9,6 +9,7 @@
         "RepoUrl": "https://github.com/daemitus/WondrousTailsSolver",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
+        "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/daemitus/WondrousTailsSolver/master/res/icon.png",
         "ImageUrls": [
             "https://raw.githubusercontent.com/daemitus/WondrousTailsSolver/master/res/image1.png"
@@ -19,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635198027"
+        "LastUpdated": "1635199212"
     },
     {
         "Author": "daemitus",
@@ -31,6 +32,7 @@
         "RepoUrl": "https://github.com/daemitus/MiniCactpotSolver",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
+        "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/icon.png",
         "ImageUrls": [
             "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/image1.png",
@@ -42,7 +44,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635198027"
+        "LastUpdated": "1635199212"
     },
     {
         "Author": "daemitus",
@@ -54,6 +56,7 @@
         "RepoUrl": "https://github.com/daemitus/ZodiacBuddy",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
+        "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/daemitus/ZodiacBuddy/master/res/icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/ZodiacBuddy/latest.zip",
@@ -62,7 +65,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/ZodiacBuddy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/ZodiacBuddy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635198027"
+        "LastUpdated": "1635199212"
     },
     {
         "Author": "attick, daemitus",
@@ -74,6 +77,7 @@
         "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
+        "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
@@ -82,7 +86,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635198027"
+        "LastUpdated": "1635199212"
     },
     {
         "Author": "daemitus",
@@ -94,6 +98,7 @@
         "RepoUrl": "https://github.com/daemitus/SomethingNeedDoing",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
+        "LoadPriority": 0,
         "IconUrl": "https://github.com/daemitus/SomethingNeedDoing/raw/master/res/icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
@@ -102,7 +107,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635198027"
+        "LastUpdated": "1635199212"
     },
     {
         "Author": "daemitus",
@@ -114,6 +119,7 @@
         "RepoUrl": "https://github.com/daemitus/FauxHollowsSolver",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
+        "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/daemitus/FauxHollowsSolver/master/res/icon.png",
         "ImageUrls": [
             "https://raw.githubusercontent.com/daemitus/FauxHollowsSolver/master/res/image1.png"
@@ -124,7 +130,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635198027"
+        "LastUpdated": "1635199212"
     },
     {
         "Author": "daemitus",
@@ -136,6 +142,7 @@
         "RepoUrl": "https://github.com/daemitus/YesAlready",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
+        "LoadPriority": 1,
         "IconUrl": "https://github.com/daemitus/YesAlready/raw/master/res/icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
@@ -144,6 +151,6 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1635198027"
+        "LastUpdated": "1635199212"
     }
 ]
