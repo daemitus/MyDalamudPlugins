@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1638845691"
+        "LastUpdated": "1638846448"
     },
     {
         "Author": "daemitus",
@@ -39,7 +39,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/ZodiacBuddy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/ZodiacBuddy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1638845691"
+        "LastUpdated": "1638846448"
     },
     {
         "Author": "daemitus",
@@ -47,10 +47,10 @@
         "Punchline": "Adds row probabilities to the Wondrous Tails display.",
         "Description": "This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled.",
         "InternalName": "WondrousTailsSolver",
-        "AssemblyVersion": "2.1.0.0",
+        "AssemblyVersion": "2.1.0.3",
         "RepoUrl": "https://github.com/daemitus/WondrousTailsSolver",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 4,
+        "DalamudApiLevel": 5,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/daemitus/WondrousTailsSolver/master/res/icon.png",
         "ImageUrls": [
@@ -62,7 +62,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1638845691"
+        "LastUpdated": "1638846448"
     },
     {
         "Author": "daemitus",
@@ -86,7 +86,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1638845691"
+        "LastUpdated": "1638846448"
     },
     {
         "Author": "daemitus",
@@ -109,7 +109,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1638845691"
+        "LastUpdated": "1638846448"
     },
     {
         "Author": "daemitus",
@@ -130,7 +130,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1638845691"
+        "LastUpdated": "1638846448"
     },
     {
         "Author": "attick, daemitus",
@@ -151,6 +151,6 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1638845691"
+        "LastUpdated": "1638846448"
     }
 ]
