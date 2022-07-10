@@ -21,7 +21,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1657467978"
+        "LastUpdate": "1657473808"
     },
     {
         "Author": "daemitus",
@@ -42,7 +42,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1657467978"
+        "LastUpdate": "1657473808"
     },
     {
         "Author": "daemitus",
@@ -65,7 +65,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1657467978"
+        "LastUpdate": "1657473808"
     },
     {
         "Author": "daemitus",
@@ -86,7 +86,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1657467978"
+        "LastUpdate": "1657473808"
     },
     {
         "Author": "daemitus",
@@ -107,7 +107,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1657467978"
+        "LastUpdate": "1657473808"
     },
     {
         "Author": "daemitus",
@@ -130,15 +130,14 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1657467978"
+        "LastUpdate": "1657473808"
     },
     {
-        "Author": "daemitus",
+        "Author": "daemitus, hiroa",
         "Name": "ZodiacBuddy",
         "Description": "This plugin attempts to help you complete your Zodiac weapon in various ways.",
-        "Changelog": "2022-06-22\nAdded a Novus light tracker (by Hiroa)\n",
         "InternalName": "ZodiacBuddy",
-        "AssemblyVersion": "0.0.2.0",
+        "AssemblyVersion": "0.0.3.0",
         "RepoUrl": "https://github.com/daemitus/ZodiacBuddy",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
@@ -151,7 +150,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/ZodiacBuddy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/ZodiacBuddy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1657467978"
+        "LastUpdate": "1657473808"
     },
     {
         "Author": "attick, daemitus",
@@ -172,6 +171,6 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1657467978"
+        "LastUpdate": "1657473808"
     }
 ]
