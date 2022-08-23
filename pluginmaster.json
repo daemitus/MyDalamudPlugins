@@ -1,70 +1,6 @@
 [
     {
         "Author": "daemitus",
-        "Name": "ezFauxHollows",
-        "Punchline": "Highlights recommended tiles in Faux Hollows for your next move.",
-        "Description": "This plugin highlights tiles in Faux Hollows that represent the best potential action you can take.",
-        "InternalName": "FauxHollowsSolver",
-        "AssemblyVersion": "1.1.1.0",
-        "RepoUrl": "https://github.com/daemitus/FauxHollowsSolver",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/daemitus/FauxHollowsSolver/master/res/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/daemitus/FauxHollowsSolver/master/res/image1.png"
-        ],
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1661213775"
-    },
-    {
-        "Author": "daemitus",
-        "Name": "Something Need Doing 6.05 CN",
-        "Punchline": "Work work.",
-        "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.",
-        "InternalName": "SomethingNeedDoing",
-        "AssemblyVersion": "1.2.4.4",
-        "RepoUrl": "https://github.com/daemitus/SomethingNeedDoing",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
-        "LoadPriority": 0,
-        "IconUrl": "https://github.com/daemitus/SomethingNeedDoing/raw/master/res/icon.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1661213775"
-    },
-    {
-        "Author": "daemitus, hiroa",
-        "Name": "ZodiacBuddy",
-        "Description": "This plugin attempts to help you complete your Zodiac weapon in various ways.",
-        "InternalName": "ZodiacBuddy",
-        "AssemblyVersion": "0.0.3.6",
-        "RepoUrl": "https://github.com/daemitus/ZodiacBuddy",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/daemitus/ZodiacBuddy/master/res/icon.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/ZodiacBuddy/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/ZodiacBuddy/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/ZodiacBuddy/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1661213775"
-    },
-    {
-        "Author": "daemitus",
         "Name": "ezWondrousTails",
         "Punchline": "Adds row probabilities to the Wondrous Tails display.",
         "Description": "This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled.",
@@ -84,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1661213775"
+        "LastUpdate": "1661293822"
     },
     {
         "Author": "daemitus",
@@ -105,31 +41,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1661213775"
-    },
-    {
-        "Author": "daemitus",
-        "Name": "ezMiniCactpot",
-        "Punchline": "Shows the next best move in Mini Cactpot.",
-        "Description": "This plugin highlights tiles and lines in MiniCactpot that represent the best potential action you can take.",
-        "InternalName": "MiniCactpotSolver",
-        "AssemblyVersion": "1.1.1.0",
-        "RepoUrl": "https://github.com/daemitus/MiniCactpotSolver",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/image1.png",
-            "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/image2.png"
-        ],
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1661213775"
+        "LastUpdate": "1661293822"
     },
     {
         "Author": "attick, daemitus",
@@ -150,7 +62,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1661213775"
+        "LastUpdate": "1661293822"
     },
     {
         "Author": "daemitus",
@@ -171,6 +83,6 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1661213775"
+        "LastUpdate": "1661293822"
     }
 ]
