@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673405061"
+        "LastUpdate": "1673405120"
     },
     {
         "Author": "daemitus",
@@ -28,10 +28,10 @@
         "Punchline": "Work work.",
         "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.",
         "InternalName": "SomethingNeedDoing",
-        "AssemblyVersion": "1.3.0.8",
+        "AssemblyVersion": "1.4.0.0",
         "RepoUrl": "https://github.com/daemitus/SomethingNeedDoing",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 7,
+        "DalamudApiLevel": 8,
         "LoadPriority": 0,
         "IconUrl": "https://github.com/daemitus/SomethingNeedDoing/raw/master/res/icon.png",
         "ImageUrls": [],
@@ -41,7 +41,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673405061"
+        "LastUpdate": "1673405120"
     },
     {
         "Author": "daemitus",
@@ -62,7 +62,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673405061"
+        "LastUpdate": "1673405120"
     },
     {
         "Author": "attick, daemitus",
@@ -83,6 +83,6 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673405061"
+        "LastUpdate": "1673405120"
     }
 ]
