@@ -4,7 +4,7 @@
         "Name": "XIV Combo Expanded",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
-        "InternalName": "FFIXV_WAKEUP_CNT",
+        "InternalName": "XIVComboExpanded",
         "AssemblyVersion": "2.0.3.0",
         "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
         "ApplicableVersion": "any",
@@ -24,6 +24,6 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1743018844"
+        "LastUpdate": "1743020642"
     }
 ]
