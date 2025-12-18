@@ -2,8 +2,8 @@
   "Author": "attick, daemitus, Khayle",
   "Name": "XIV Combo Expanded",
   "InternalName": "XIVComboExpanded",
-  "AssemblyVersion": "2.0.4.1",
-  "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
+  "AssemblyVersion": "2.0.5.0",
+  "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
   "Tags": [
@@ -12,7 +12,7 @@
     "expanded",
     "pcombo"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
